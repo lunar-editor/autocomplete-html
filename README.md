@@ -1,5 +1,7 @@
 # HTML Autocomplete package
 
+[![CI](https://github.com/lunar-editor/autocomplete-html/actions/workflows/ci.yml/badge.svg)](https://github.com/lunar-editor/autocomplete-html/actions/workflows/ci.yml)
+
 HTML tag and attribute autocompletions in Atom.
 
 Tag and attribute autocompletions are powered by the list of HTML tags [here](https://github.com/adobe/brackets/blob/master/src/extensions/default/HTMLCodeHints/HtmlTags.json) and HTML attributes [here](https://github.com/adobe/brackets/blob/master/src/extensions/default/HTMLCodeHints/HtmlAttributes.json).
